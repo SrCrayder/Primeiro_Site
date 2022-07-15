@@ -1,0 +1,23 @@
+.card{
+width: 500px;
+}
+body{
+    background-image: url(/img/fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.imgP {
+    background-color: #aaa;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    position: relative;
+  }
+  .nav-2{
+    background-color: #aaa;
+
+  }
+  .nav-2>p{
+    width: 700px;
+  }
